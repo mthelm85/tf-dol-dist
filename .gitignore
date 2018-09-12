@@ -1,6 +1,7 @@
 .DS_Store
 node_modules
 /dist
+OK Enforcement Data.xlsx
 
 # local env files
 .env.local
