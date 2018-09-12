@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="container">
     <graph></graph>
   </div>
 </template>
